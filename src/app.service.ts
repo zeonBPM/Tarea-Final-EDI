@@ -7,5 +7,8 @@ export class AppService {
     return 'Holis';
   }
 
+ postHello(): string {
+		return 'Holapost'
+	}
 
 }

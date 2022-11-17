@@ -7,5 +7,5 @@ export class GatoService {
     return 'Gato';
   }
 
-
+ 
 }
